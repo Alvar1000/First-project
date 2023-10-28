@@ -7,8 +7,11 @@
 RowNumber — индекс строки в данных
 
 CustomerId — уникальный идентификатор клиента
+
 Surname — фамилия
+
 CreditScore — кредитный рейтинг
+
 Geography — страна проживания
 Gender — пол
 Age — возраст
